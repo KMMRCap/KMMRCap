@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KMMRCap
-- 👀 I’m interested in front-end developing
-- 👋 My current skills are HTML, CSS, Bootstrap, Sass, JavaScript, JQuery and Reactjs
-- 🌱 I’m currently improving my Reactjs skills
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in front-end and MERN Stack developing
+- 👋 My current skills are HTML, CSS, Bootstrap, Sass, JavaScript, JQuery, Reactjs, Material UI, Nextjs, Nodejs and Express.
+- 🌱 I’m currently improving my React Native skills
+- 💞️ I’m looking to collaborate on front-end and MERN Stack projects
 - 📫 You can reach me through email : mortezarezaienia@gmail.com
 
 <!---
