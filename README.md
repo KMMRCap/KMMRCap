@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Morteza Rezaeinia
+# Hi there 👋 I'm Morteza Rezaienia
 
 ## Senior Full Stack Developer
 ### Building AI-Powered Applications • LLM Integrations • Web3 • Modern SaaS
